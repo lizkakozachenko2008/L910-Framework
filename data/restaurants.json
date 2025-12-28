@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Sushi World",
+    "rating": 4.7,
+    "isOpen": true,
+    "openedAt": "2019-05-20",
+    "cuisines": ["japanese", "sushi", "seafood"]
+  },
+  {
+    "id": 2,
+    "name": "Pizza House",
+    "rating": 4.3,
+    "isOpen": false,
+    "openedAt": "2018-10-01",
+    "cuisines": ["italian", "pizza"]
+  },
+  {
+    "id": 3,
+    "name": "Burger City",
+    "rating": 4.1,
+    "isOpen": true,
+    "openedAt": "2021-02-14",
+    "cuisines": ["american", "burgers", "fries"]
+  }
+]

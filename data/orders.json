@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "restaurantId": 1,
+    "totalPrice": 35.5,
+    "isDelivered": true,
+    "createdAt": "2025-01-10T12:30:00Z",
+    "items": ["Philadelphia roll", "Green tea"]
+  },
+  {
+    "id": 2,
+    "restaurantId": 2,
+    "totalPrice": 22.0,
+    "isDelivered": false,
+    "createdAt": "2025-01-11T19:15:00Z",
+    "items": ["Pepperoni pizza", "Coke"]
+  },
+  {
+    "id": 3,
+    "restaurantId": 3,
+    "totalPrice": 18.9,
+    "isDelivered": true,
+    "createdAt": "2025-01-12T16:45:00Z",
+    "items": ["Cheeseburger", "French fries", "Milkshake"]
+  }
+]

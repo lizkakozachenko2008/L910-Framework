@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "brand": "Toyota",
+    "model": "Camry",
+    "price": 25000,
+    "isAvailable": true,
+    "releaseDate": "2022-05-10",
+    "features": ["automatic", "hybrid", "air conditioning"]
+  },
+  {
+    "id": 2,
+    "brand": "BMW",
+    "model": "X5",
+    "price": 55000,
+    "isAvailable": false,
+    "releaseDate": "2021-09-22",
+    "features": ["automatic", "all-wheel drive", "leather interior"]
+  },
+  {
+    "id": 3,
+    "brand": "Tesla",
+    "model": "Model 3",
+    "price": 40000,
+    "isAvailable": true,
+    "releaseDate": "2023-02-01",
+    "features": ["electric", "autopilot", "panoramic roof"]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "1st Infantry Battalion",
+    "soldiersCount": 120,
+    "isActive": true,
+    "formedAt": "2010-05-10",
+    "specializations": ["infantry", "rifle"]
+  },
+  {
+    "id": 2,
+    "name": "2nd Recon Company",
+    "soldiersCount": 40,
+    "isActive": true,
+    "formedAt": "2015-03-01",
+    "specializations": ["reconnaissance", "sniper", "communication"]
+  },
+  {
+    "id": 3,
+    "name": "Engineering Platoon",
+    "soldiersCount": 25,
+    "isActive": false,
+    "formedAt": "2012-11-22",
+    "specializations": ["engineering", "logistics", "construction"]
+  }
+]

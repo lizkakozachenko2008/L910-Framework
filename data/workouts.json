@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Morning Yoga",
+    "durationMinutes": 60,
+    "isGroup": true,
+    "startTime": "2025-01-15T08:00:00Z",
+    "trainers": ["Elena Smirnova"]
+  },
+  {
+    "id": 2,
+    "title": "Crossfit Extreme",
+    "durationMinutes": 45,
+    "isGroup": true,
+    "startTime": "2025-01-15T18:30:00Z",
+    "trainers": ["Dmitry Orlov", "Anna Ivanova"]
+  },
+  {
+    "id": 3,
+    "title": "Personal Training",
+    "durationMinutes": 90,
+    "isGroup": false,
+    "startTime": "2025-01-16T16:00:00Z",
+    "trainers": ["Maksim Volkov"]
+  }
+]

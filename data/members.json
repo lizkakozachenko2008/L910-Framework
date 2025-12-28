@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "fullName": "Anna Ivanova",
+    "age": 24,
+    "isActive": true,
+    "registrationDate": "2023-01-10",
+    "subscriptions": ["monthly", "yoga"]
+  },
+  {
+    "id": 2,
+    "fullName": "Sergey Petrov",
+    "age": 32,
+    "isActive": false,
+    "registrationDate": "2022-06-05",
+    "subscriptions": ["yearly"]
+  },
+  {
+    "id": 3,
+    "fullName": "Olga Sidorova",
+    "age": 28,
+    "isActive": true,
+    "registrationDate": "2024-03-18",
+    "subscriptions": ["monthly", "crossfit"]
+  }
+]

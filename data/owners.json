@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Alex Smith",
+    "age": 30,
+    "hasDrivingLicense": true,
+    "registrationDate": "2020-03-15",
+    "cars": [1, 3]
+  },
+  {
+    "id": 2,
+    "name": "Maria Johnson",
+    "age": 25,
+    "hasDrivingLicense": true,
+    "registrationDate": "2021-07-01",
+    "cars": [2]
+  },
+  {
+    "id": 3,
+    "name": "Ivan Petrov",
+    "age": 19,
+    "hasDrivingLicense": false,
+    "registrationDate": "2022-11-20",
+    "cars": []
+  }
+]

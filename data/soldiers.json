@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Ivan Sokolov",
+    "rank": "Private",
+    "age": 20,
+    "onDuty": true,
+    "enlistmentDate": "2024-09-01",
+    "skills": ["rifle", "first aid"]
+  },
+  {
+    "id": 2,
+    "name": "Pavel Morozov",
+    "rank": "Sergeant",
+    "age": 27,
+    "onDuty": false,
+    "enlistmentDate": "2020-04-15",
+    "skills": ["tactics", "communication", "rifle"]
+  },
+  {
+    "id": 3,
+    "name": "Nikita Lebedev",
+    "rank": "Lieutenant",
+    "age": 30,
+    "onDuty": true,
+    "enlistmentDate": "2019-01-20",
+    "skills": ["engineering", "logistics"]
+  }
+]
